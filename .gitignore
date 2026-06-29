@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Data, features and checkpoints
+*.tfrecord
+*.npy
+*.csv
+*.json.gz
+*.b
+save_*/
+*_mask_log_*.txt
+
+# Logs
+*.log
+
+# Downloaded pretrained model weights (keep folder placeholders + README)
+pretrained_models/*/*
+!pretrained_models/*/.gitkeep

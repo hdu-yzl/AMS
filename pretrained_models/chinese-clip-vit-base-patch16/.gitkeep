@@ -1,0 +1,2 @@
+# Place the Chinese-CLIP model files here (AntM2C image encoder, 512-d).
+# Download: huggingface-cli download OFA-Sys/chinese-clip-vit-base-patch16 --local-dir .

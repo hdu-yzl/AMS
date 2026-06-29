@@ -1,0 +1,2 @@
+# Place the Sentence-Transformers MiniLM model files here (Amazon text encoder, 384-d).
+# Download: huggingface-cli download sentence-transformers/all-MiniLM-L6-v2 --local-dir .

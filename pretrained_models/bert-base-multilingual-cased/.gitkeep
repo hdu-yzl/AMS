@@ -1,0 +1,2 @@
+# Place the Multilingual BERT model files here (AntM2C text encoder, 768-d).
+# Download: huggingface-cli download bert-base-multilingual-cased --local-dir .
